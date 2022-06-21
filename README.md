@@ -15,5 +15,3 @@
 <div align="center">
 	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentin-prongue" alt="quentin-prongue" /></p>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quentin-prongue&show_icons=true&locale=en" alt="quentin-prongue" /></p>
